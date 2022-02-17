@@ -22,5 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-Try demo https://reverent-tesla-5b9ec9.netlify.app/
